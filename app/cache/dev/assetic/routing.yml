@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: /opt/local/apache2/htdocs/symfony_restapi/app/config/routing_dev.yml
+    resource: /opt/local/apache2/htdocs/Symfony2-RESTAPI/app/config/routing_dev.yml
