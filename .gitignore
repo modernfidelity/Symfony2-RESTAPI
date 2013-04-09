@@ -1,7 +1,13 @@
 # Bootstrap
+
 app/bootstrap*
 
+# Logs
+
+app/logs/*
+
 # Symfony directories
+
 vendor/*
 */logs/*
 */cache/*
@@ -9,8 +15,11 @@ web/uploads/*
 web/bundles/*
 
 # Configuration files
+
 app/config/parameters.ini
 app/config/parameters.yml
 
+# OS cruft
 
 .DS_Store
+.swp
