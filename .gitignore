@@ -8,7 +8,7 @@ app/logs/*
 
 # Symfony directories
 
-vendor/*
+#vendor/*
 */logs/*
 */cache/*
 web/uploads/*
